@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orientation_sensor", "Orientation_sensor.csproj", "{40726593-D2BF-4335-AA2E-B4CAE21AE272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40726593-D2BF-4335-AA2E-B4CAE21AE272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40726593-D2BF-4335-AA2E-B4CAE21AE272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40726593-D2BF-4335-AA2E-B4CAE21AE272}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{40726593-D2BF-4335-AA2E-B4CAE21AE272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40726593-D2BF-4335-AA2E-B4CAE21AE272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40726593-D2BF-4335-AA2E-B4CAE21AE272}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D044BA34-3AA9-4EB4-8BB6-5DEE8E9AD395}
+	EndGlobalSection
+EndGlobal
